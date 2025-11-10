@@ -1,0 +1,323 @@
+i_max = 10**3, t_max = 10**7:
+Threads = 1: 
+	⁃	Took 20.9284 seconds
+	⁃	Normalized: 1.48422e-08 seconds
+Threads = 2:
+	⁃	Took 49.5824 seconds
+	⁃	Normalized: 3.51632e-08 seconds
+Threads = 4:
+	⁃	Took 91.1334 seconds
+	⁃	Normalized: 6.46306e-08 seconds
+
+Many Barriers makes the code slower
+
+i_max = 10**3, t_max = 10**6:
+Threads = 1: 
+	⁃	Took 2.0866 seconds
+	⁃	Normalized: 2.0866e-09 seconds
+Threads = 2:
+	⁃	Took 5.14628 seconds
+	⁃	Normalized: 5.14628e-09 seconds 
+
+Many Barriers makes the code slower
+
+i_max = 10**3, t_max = 10**5:
+Threads = 1: 
+	⁃	Took 0.210535 seconds
+	⁃	Normalized: 2.10535e-09 seconds
+Threads = 2: 
+	⁃	Took 0.753751 seconds
+	⁃	Normalized: 7.53751e-09 seconds
+
+Many Barriers makes the code slower
+
+i_max = 10**3, t_max = 10**4:
+Threads = 1: 
+	⁃	Took 0.0224673 seconds
+	⁃	Normalized: 2.24673e-09 seconds
+Threads = 2: 
+	⁃	Took 0.0841674 seconds
+	⁃	Normalized: 8.41674e-09 seconds
+
+Many Barriers makes the code slower
+
+i_max = 10**3, t_max = 10**3:
+Threads = 1: 
+	•	Took 0.00267701 seconds
+	•	Normalized: 2.67701e-09 seconds
+Threads = 2: 
+	•	Took 0.00946927 seconds
+	•	Normalized: 9.46927e-09 seconds
+
+????
+
+i_max = 10**3, t_max = 10**2:
+Threads = 1: 
+	•	Took 0.000275477 seconds
+	•	Normalized: 2.75477e-09 seconds
+Threads = 2: 
+	•	Took 0.001101 seconds
+	•	Normalized: 1.101e-08 seconds
+Threads = 4: 
+	•	Took 0.00129486 seconds
+	•	Normalized: 1.29486e-08 seconds
+
+i_max = 10**4: 
+t_max = 10**6
+Threads = 1: 
+	•	Took 16.3745 seconds
+	•	Normalized: 1.16126e-08 seconds
+Threads = 2: 
+	•	Took 12.403 seconds
+	•	Normalized: 8.79602e-09 seconds
+Threads = 4: 
+	•	Took 13.3495 seconds
+	•	Normalized: 9.46731e-09 seconds
+Threads = 6: 
+	•	Took 14.3349 seconds
+	•	Normalized: 1.01661e-08 seconds
+Threads = 8:
+	⁃	Took 16.8322 seconds
+	⁃	Normalized: 1.19372e-08 seconds
+Threads = 10:
+	⁃	Took 19.2825 seconds
+	⁃	Normalized: 1.36749e-08 seconds
+t_max = 10**5
+Threads = 1: 
+	•	Took 1.65904 seconds
+	•	Normalized: 1.65904e-09 seconds
+Threads = 2: 
+	•	Took 1.24702 seconds
+	•	Normalized: 1.24702e-09 seconds
+Threads = 4: 
+	•	Took 1.34626 seconds
+	•	Normalized: 1.34626e-09 seconds
+Threads = 6: 
+	•	Took 1.43174 seconds
+	•	Normalized: 1.43174e-09 seconds
+Threads = 8:
+	•	Took 1.69335 seconds
+	•	Normalized: 1.69335e-09 seconds
+Threads = 10:
+	•	Took 1.9289 seconds
+	•	Normalized: 1.9289e-09 seconds
+t_max = 10**4
+Threads = 1: 
+	•	Took 0.174699 seconds
+	•	Normalized: 1.74699e-09 seconds
+Threads = 2: 
+	•	Took 0.170606 seconds
+	•	Normalized: 1.70606e-09 seconds
+Threads = 4: 
+	•	Took 0.150922 seconds
+	•	Normalized: 1.50922e-09 seconds
+Threads = 6: 
+	•	Took 0.171653 seconds
+	•	Normalized: 1.71653e-09 seconds
+Threads = 8:
+	•	Took 0.179383 seconds
+	•	Normalized: 1.79383e-09 seconds
+Threads = 10:
+	•	Took 0.20335 seconds
+	•	Normalized: 2.0335e-09 seconds
+t_max = 10**3
+Threads = 1: 
+	•	Took 0.0180062 seconds
+	•	Normalized: 1.80062e-09 seconds
+Threads = 2: 
+	•	Took 0.0186073 seconds
+	•	Normalized: 1.86073e-09 seconds
+Threads = 4: 
+	•	Took 0.0108743 seconds
+	•	Normalized: 1.08743e-09 seconds
+Threads = 6: 
+	•	Took 0.0181218 seconds
+	•	Normalized: 1.81218e-09 seconds
+Threads = 8:
+	•	Took 0.0199831 seconds
+	•	Normalized: 1.99831e-09 seconds
+Threads = 10:
+	•	Took 0.0202056 seconds
+	•	Normalized: 2.02056e-09 seconds
+
+i_max = 10**5: 
+t_max = 10**6
+Threads = 1: 
+	•	cntrl+c
+Threads = 2: 
+	•	cntrl+c
+Threads = 4: 
+	•	cntrl+c
+
+t_max = 10**5
+Threads = 1: 
+	•	Took 16.8555 seconds
+	•	Normalized: 1.19537e-08 seconds
+Threads = 2: 
+	•	Took 9.50531 seconds
+	•	Normalized: 6.74104e-09 seconds
+Threads = 4: 
+	•	Took 5.79747 seconds
+	•	Normalized: 4.11149e-09 seconds
+Threads = 6: 
+	•	Took 4.82297 seconds
+	•	Normalized: 3.42038e-09 seconds
+Threads = 8:
+	•	Took 4.27221 seconds
+	•	Normalized: 3.02979e-09 seconds
+Threads = 10:
+	•	Took 4.2625 seconds
+	•	Normalized: 3.02291e-09 seconds
+Threads = 12: 
+	•	Took 4.04962 seconds
+	•	Normalized: 2.87194e-09 seconds
+Threads = 14:
+	•	Took 4.27846 seconds
+	•	Normalized: 3.03423e-09 seconds
+Threads = 16:
+	•	Took 4.50324 seconds
+	•	Normalized: 3.19364e-09 seconds
+t_max = 10**4
+Threads = 1: 
+	•	Took 1.63028 seconds
+	•	Normalized: 1.63028e-09 seconds
+Threads = 2: 
+	•	Took 0.954241 seconds
+	•	Normalized: 9.54241e-10 seconds
+Threads = 4: 
+	•	Took 0.566287 seconds
+	•	Normalized: 5.66287e-10 seconds
+Threads = 6: 
+	•	Took 0.469544 seconds
+	•	Normalized: 4.69544e-10 seconds
+Threads = 8:
+	•	Took 0.424529 seconds
+	•	Normalized: 4.24529e-10 seconds
+Threads = 10:
+	•	Took 0.397154 seconds
+	•	Normalized: 3.97154e-10 seconds
+Threads = 12: 
+	•	Took 0.360691 seconds
+	•	Normalized: 3.60691e-10 seconds
+Threads = 14:
+	•	Took 0.383187 seconds
+	•	Normalized: 3.83187e-10 seconds
+Threads = 16:
+	•	Took 0.428024 seconds
+	•	Normalized: 4.28024e-10 seconds
+t_max = 10**3
+Threads = 1: 
+	•	Took 0.176712 seconds
+	•	Normalized: 1.76712e-09 seconds
+Threads = 2: 
+	•	Took 0.111009 seconds
+	•	Normalized: 1.11009e-09 seconds
+Threads = 4: 
+	•	Took 0.0672014 seconds
+	•	Normalized: 6.72014e-10 seconds
+Threads = 6: 
+	•	Took 0.0563099 seconds
+	•	Normalized: 5.63099e-10 seconds
+Threads = 8:
+	•	Took 0.0462411 seconds
+	•	Normalized: 4.62411e-10 seconds
+Threads = 10:
+	•	Took 0.0445952 seconds
+	•	Normalized: 4.45952e-10 seconds
+Threads = 12: 
+	•	Took 0.0428035 seconds
+	•	Normalized: 4.28035e-10 seconds
+Threads = 14:
+	•	Took 0.0423676 seconds
+	•	Normalized: 4.23676e-10 seconds
+Threads = 16:
+	•	Took 0.0495207 seconds
+	•	Normalized: 4.95207e-10 seconds
+
+i_max = 10**6: 
+t_max = 10**4
+Threads = 1: 
+	•	Took 20.8594 seconds
+	•	Normalized: 1.47932e-08 seconds
+Threads = 2: 
+	•	Took 8.32239 seconds
+	•	Normalized: 5.90213e-09 seconds
+Threads = 4: 
+	•	Took 4.4355 seconds
+	•	Normalized: 3.1456e-09 seconds
+Threads = 6: 
+	•	Took 3.19825 seconds
+	•	Normalized: 2.26816e-09 seconds
+Threads = 8:
+	•	Took 2.58307 seconds
+	•	Normalized: 1.83188e-09 seconds
+Threads = 10:
+	•	Took 2.1529 seconds
+	•	Normalized: 1.52681e-09 seconds
+Threads = 12: 
+	•	Took 1.93633 seconds
+	•	Normalized: 1.37322e-09 seconds
+Threads = 14:
+	•	Took 1.69003 seconds
+	•	Normalized: 1.19855e-09 seconds
+Threads = 16:
+	•	Took 1.59904 seconds
+	•	Normalized: 1.13402e-09 seconds
+t_max = 10**3
+Threads = 1: 
+	•	Took 1.95937 seconds
+	•	Normalized: 1.95937e-09 seconds
+Threads = 2: 
+	•	Took 0.881606 seconds
+	•	Normalized: 8.81606e-10 seconds
+Threads = 4: 
+	•	Took 0.470303 seconds
+	•	Normalized: 4.70303e-10 seconds
+Threads = 6: 
+	•	Took 0.347155 seconds
+	•	Normalized: 3.47155e-10 seconds
+Threads = 8:
+	•	Took 0.272446 seconds
+	•	Normalized: 2.72446e-10 seconds
+Threads = 10:
+	•	Took 0.240396 seconds
+	•	Normalized: 2.40396e-10 seconds
+Threads = 12: 
+	•	Took 0.209028 seconds
+	•	Normalized: 2.09028e-10 seconds
+Threads = 14:
+	•	Took 0.189886 seconds
+	•	Normalized: 1.89886e-10 seconds
+Threads = 16:
+	•	Took 0.267622 seconds
+	•	Normalized: 2.67622e-10 seconds
+
+i_max = 10**7: 
+t_max = 10**3
+Threads = 1: 
+	•	Took 21.4218 seconds
+	•	Normalized: 1.51921e-08 seconds
+Threads = 2: 
+	•	Took 11.9779 seconds
+	•	Normalized: 8.49459e-09 seconds
+Threads = 4: 
+	•	Took 12.264 seconds
+	•	Normalized: 8.69744e-09 seconds
+Threads = 6: 
+	•	Took 5.66596 seconds
+	•	Normalized: 4.01823e-09 seconds
+Threads = 8:(had to recompute 3 times to go from 12 to 5)
+	•	Took 5.09541 seconds
+	•	Normalized: 3.6136e-09 seconds
+Threads = 10:(unstable, can be more)
+	•	Took 6.23015 seconds
+	•	Normalized: 4.41834e-09 seconds
+Threads = 12: (unstable, can be more)
+	•	Took 5.5189 seconds
+	•	Normalized: 3.91393e-09 seconds
+Threads = 14:(unstable, can be more)
+	•	Took 5.84612 seconds
+	•	Normalized: 4.146e-09 seconds
+Threads = 16:(unstable, can be more)
+	•	Took 5.70848 seconds
+	•	Normalized: 4.04838e-09 seconds
