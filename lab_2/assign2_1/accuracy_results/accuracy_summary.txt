@@ -1,0 +1,209 @@
+Accuracy Comparison Results
+Version: default (global memory)
+Started: Fri Nov 21 00:36:55 CET 2025
+========================================
+
+Test 1: i_max=1000, t_max=1000
+--- CUDA vs Pthreads ---
+Traceback (most recent call last):
+  File "compare_accuracy.py", line 5, in <module>
+    import numpy as np
+ModuleNotFoundError: No module named 'numpy'
+
+--- CUDA vs OpenMP ---
+Traceback (most recent call last):
+  File "compare_accuracy.py", line 5, in <module>
+    import numpy as np
+ModuleNotFoundError: No module named 'numpy'
+
+Test 2: i_max=1000, t_max=10000
+--- CUDA vs Pthreads ---
+Traceback (most recent call last):
+  File "compare_accuracy.py", line 5, in <module>
+    import numpy as np
+ModuleNotFoundError: No module named 'numpy'
+
+--- CUDA vs OpenMP ---
+Traceback (most recent call last):
+  File "compare_accuracy.py", line 5, in <module>
+    import numpy as np
+ModuleNotFoundError: No module named 'numpy'
+
+Test 3: i_max=1000, t_max=100000
+--- CUDA vs Pthreads ---
+Traceback (most recent call last):
+  File "compare_accuracy.py", line 5, in <module>
+    import numpy as np
+ModuleNotFoundError: No module named 'numpy'
+
+--- CUDA vs OpenMP ---
+Traceback (most recent call last):
+  File "compare_accuracy.py", line 5, in <module>
+    import numpy as np
+ModuleNotFoundError: No module named 'numpy'
+
+Test 4: i_max=1000, t_max=1000000
+--- CUDA vs Pthreads ---
+Traceback (most recent call last):
+  File "compare_accuracy.py", line 5, in <module>
+    import numpy as np
+ModuleNotFoundError: No module named 'numpy'
+
+--- CUDA vs OpenMP ---
+Traceback (most recent call last):
+  File "compare_accuracy.py", line 5, in <module>
+    import numpy as np
+ModuleNotFoundError: No module named 'numpy'
+
+Test 5: i_max=1000, t_max=10000000
+--- CUDA vs Pthreads ---
+Traceback (most recent call last):
+  File "compare_accuracy.py", line 5, in <module>
+    import numpy as np
+ModuleNotFoundError: No module named 'numpy'
+
+--- CUDA vs OpenMP ---
+Traceback (most recent call last):
+  File "compare_accuracy.py", line 5, in <module>
+    import numpy as np
+ModuleNotFoundError: No module named 'numpy'
+
+Test 6: i_max=10000, t_max=1000
+--- CUDA vs Pthreads ---
+Traceback (most recent call last):
+  File "compare_accuracy.py", line 5, in <module>
+    import numpy as np
+ModuleNotFoundError: No module named 'numpy'
+
+--- CUDA vs OpenMP ---
+Traceback (most recent call last):
+  File "compare_accuracy.py", line 5, in <module>
+    import numpy as np
+ModuleNotFoundError: No module named 'numpy'
+
+Test 7: i_max=10000, t_max=10000
+--- CUDA vs Pthreads ---
+Traceback (most recent call last):
+  File "compare_accuracy.py", line 5, in <module>
+    import numpy as np
+ModuleNotFoundError: No module named 'numpy'
+
+--- CUDA vs OpenMP ---
+Traceback (most recent call last):
+  File "compare_accuracy.py", line 5, in <module>
+    import numpy as np
+ModuleNotFoundError: No module named 'numpy'
+
+Test 8: i_max=10000, t_max=100000
+--- CUDA vs Pthreads ---
+Traceback (most recent call last):
+  File "compare_accuracy.py", line 5, in <module>
+    import numpy as np
+ModuleNotFoundError: No module named 'numpy'
+
+--- CUDA vs OpenMP ---
+Traceback (most recent call last):
+  File "compare_accuracy.py", line 5, in <module>
+    import numpy as np
+ModuleNotFoundError: No module named 'numpy'
+
+Test 9: i_max=10000, t_max=1000000
+--- CUDA vs Pthreads ---
+Traceback (most recent call last):
+  File "compare_accuracy.py", line 5, in <module>
+    import numpy as np
+ModuleNotFoundError: No module named 'numpy'
+
+--- CUDA vs OpenMP ---
+Traceback (most recent call last):
+  File "compare_accuracy.py", line 5, in <module>
+    import numpy as np
+ModuleNotFoundError: No module named 'numpy'
+
+Test 10: i_max=100000, t_max=1000
+--- CUDA vs Pthreads ---
+Traceback (most recent call last):
+  File "compare_accuracy.py", line 5, in <module>
+    import numpy as np
+ModuleNotFoundError: No module named 'numpy'
+
+--- CUDA vs OpenMP ---
+Traceback (most recent call last):
+  File "compare_accuracy.py", line 5, in <module>
+    import numpy as np
+ModuleNotFoundError: No module named 'numpy'
+
+Test 11: i_max=100000, t_max=10000
+--- CUDA vs Pthreads ---
+Traceback (most recent call last):
+  File "compare_accuracy.py", line 5, in <module>
+    import numpy as np
+ModuleNotFoundError: No module named 'numpy'
+
+--- CUDA vs OpenMP ---
+Traceback (most recent call last):
+  File "compare_accuracy.py", line 5, in <module>
+    import numpy as np
+ModuleNotFoundError: No module named 'numpy'
+
+Test 12: i_max=100000, t_max=100000
+--- CUDA vs Pthreads ---
+Traceback (most recent call last):
+  File "compare_accuracy.py", line 5, in <module>
+    import numpy as np
+ModuleNotFoundError: No module named 'numpy'
+
+--- CUDA vs OpenMP ---
+Traceback (most recent call last):
+  File "compare_accuracy.py", line 5, in <module>
+    import numpy as np
+ModuleNotFoundError: No module named 'numpy'
+
+Test 13: i_max=1000000, t_max=1000
+--- CUDA vs Pthreads ---
+Traceback (most recent call last):
+  File "compare_accuracy.py", line 5, in <module>
+    import numpy as np
+ModuleNotFoundError: No module named 'numpy'
+
+--- CUDA vs OpenMP ---
+Traceback (most recent call last):
+  File "compare_accuracy.py", line 5, in <module>
+    import numpy as np
+ModuleNotFoundError: No module named 'numpy'
+
+Test 14: i_max=1000000, t_max=10000
+--- CUDA vs Pthreads ---
+Traceback (most recent call last):
+  File "compare_accuracy.py", line 5, in <module>
+    import numpy as np
+ModuleNotFoundError: No module named 'numpy'
+
+--- CUDA vs OpenMP ---
+Traceback (most recent call last):
+  File "compare_accuracy.py", line 5, in <module>
+    import numpy as np
+ModuleNotFoundError: No module named 'numpy'
+
+Test 15: i_max=10000000, t_max=1000
+--- CUDA vs Pthreads ---
+Traceback (most recent call last):
+  File "compare_accuracy.py", line 5, in <module>
+    import numpy as np
+ModuleNotFoundError: No module named 'numpy'
+
+--- CUDA vs OpenMP ---
+Traceback (most recent call last):
+  File "compare_accuracy.py", line 5, in <module>
+    import numpy as np
+ModuleNotFoundError: No module named 'numpy'
+
+
+========================================
+Final Summary
+Total tests: 15
+CUDA vs Pthreads - Passed: 0, Failed: 15
+CUDA vs OpenMP - Passed: 0, Failed: 15
+Timeouts/Errors: 0
+Completed: Fri Nov 21 00:42:39 CET 2025
+========================================
